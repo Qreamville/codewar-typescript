@@ -16,3 +16,5 @@ const persistence = (num: number): number => {
 
   return persistenceNum;
 };
+
+module.exports = persistence;
