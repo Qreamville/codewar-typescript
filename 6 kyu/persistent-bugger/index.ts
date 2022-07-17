@@ -16,7 +16,3 @@ const persistence = (num: number): number => {
 
   return persistenceNum;
 };
-
-console.log(persistence(39));
-console.log(persistence(6));
-console.log(persistence(25));
