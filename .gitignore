@@ -1,4 +1,8 @@
 node_modules
 package-lock.json
-index.text.js
-index.js
+
+# javascript test files
+.test.js
+
+# converted javascript files
+.js
